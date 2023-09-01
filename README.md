@@ -1,4 +1,4 @@
-# CSE485 Sprint 3
+# CSE485 Sprint 6
 
 ## Product Backlogs
 
